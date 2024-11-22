@@ -2,11 +2,11 @@
 
 return [
     'en' => [
-        'display' => 'English',
-        'flag-icon' => 'us'
+        'display' => 'العربية',
+        'flag-icon' => 'sy'
     ],
     'ar' => [
-        'display' => 'Arabic',
-        'flag-icon' => 'sy'
+        'display' => 'English',
+        'flag-icon' => 'gb'
     ],
 ];
